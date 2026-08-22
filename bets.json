@@ -1,3 +1,18 @@
 {
-  "bets": []
+  "bets": [
+    {
+      "id": "b-mt4mqoou-zh7aj",
+      "season": 2026,
+      "proposer": "varghese",
+      "opponent": "snyder",
+      "terms": "I beat you head-to-head in week __",
+      "stakeKind": "cash",
+      "stake": 20,
+      "forfeit": "",
+      "resolves": "",
+      "status": "proposed",
+      "winner": null,
+      "proposedAt": "2026-08-22T17:05:59.166Z"
+    }
+  ]
 }
