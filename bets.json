@@ -1,3 +1,63 @@
 {
-  "bets": []
+  "bets": [
+    {
+      "season": 2026,
+      "stakeKind": "cash",
+      "forfeit": "",
+      "winner": "varghese",
+      "proposedAt": "2026-08-22T16:01:40.231Z",
+      "id": "tmp-1",
+      "proposer": "varghese",
+      "opponent": "waldman",
+      "terms": "Tajar beats Stu head-to-head in week 1",
+      "stake": 20,
+      "resolves": "Week 1",
+      "status": "settled",
+      "settledAt": "2026-08-22T16:01:40.230Z"
+    },
+    {
+      "season": 2026,
+      "stakeKind": "cash",
+      "forfeit": "",
+      "winner": "waldman",
+      "proposedAt": "2026-08-22T16:01:40.231Z",
+      "id": "tmp-2",
+      "proposer": "waldman",
+      "opponent": "varghese",
+      "terms": "Stu finishes above Tajar in the standings",
+      "stake": 50,
+      "resolves": "End of season",
+      "status": "settled",
+      "settledAt": "2026-08-22T16:01:40.231Z"
+    },
+    {
+      "season": 2026,
+      "stakeKind": "cash",
+      "forfeit": "",
+      "winner": null,
+      "proposedAt": "2026-08-22T16:01:40.231Z",
+      "id": "tmp-3",
+      "proposer": "buzik",
+      "opponent": "tollinche",
+      "terms": "Alex outscores Felix in week 2",
+      "stake": 25,
+      "resolves": "Week 2",
+      "status": "live",
+      "acceptedAt": "2026-08-22T16:01:40.231Z"
+    },
+    {
+      "season": 2026,
+      "stakeKind": "forfeit",
+      "forfeit": "wears the jersey to the draft",
+      "winner": null,
+      "proposedAt": "2026-08-22T16:01:40.231Z",
+      "id": "tmp-4",
+      "proposer": "mukheja",
+      "opponent": "baugh",
+      "terms": "Anik makes the playoffs",
+      "stake": 0,
+      "resolves": "End of season",
+      "status": "proposed"
+    }
+  ]
 }
