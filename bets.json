@@ -1,3 +1,18 @@
 {
-  "bets": []
+  "bets": [
+    {
+      "id": "b-mt4l8yvc-n5a0s",
+      "season": 2026,
+      "proposer": "varghese",
+      "opponent": "buzik",
+      "terms": "my team beats yours",
+      "stakeKind": "cash",
+      "stake": 20,
+      "forfeit": "",
+      "resolves": "week 1",
+      "status": "proposed",
+      "winner": null,
+      "proposedAt": "2026-08-22T16:24:12.936Z"
+    }
+  ]
 }
