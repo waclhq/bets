@@ -1,22 +1,6 @@
 {
   "bets": [
     {
-      "id": "b-mt4mqoou-zh7aj",
-      "season": 2026,
-      "proposer": "varghese",
-      "opponent": "snyder",
-      "terms": "I beat you head-to-head in week __",
-      "stakeKind": "cash",
-      "stake": 20,
-      "forfeit": "",
-      "resolves": "",
-      "status": "live",
-      "winner": null,
-      "proposedAt": "2026-08-22T17:05:59.166Z",
-      "acceptedAt": "2026-08-22T17:06:09.792Z",
-      "paidAt": "2026-08-22T21:58:02.194Z"
-    },
-    {
       "id": "b-mt4x6sda-aza7j",
       "season": 2026,
       "proposer": "bernstein",
