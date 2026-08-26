@@ -14,6 +14,20 @@
       "winner": null,
       "proposedAt": "2026-08-22T21:58:26.590Z",
       "acceptedAt": "2026-08-22T22:58:20.840Z"
+    },
+    {
+      "id": "b-mt9y6duf-9gkyy",
+      "season": 2026,
+      "proposer": "varghese",
+      "opponent": "buzik",
+      "terms": "I beat you head-to-head in week __",
+      "stakeKind": "cash",
+      "stake": 50,
+      "forfeit": "",
+      "resolves": "",
+      "status": "proposed",
+      "winner": null,
+      "proposedAt": "2026-08-26T10:24:58.263Z"
     }
   ]
 }
