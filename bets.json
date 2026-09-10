@@ -14,6 +14,20 @@
       "winner": null,
       "proposedAt": "2026-09-06T15:21:14.534Z",
       "acceptedAt": "2026-09-07T02:43:20.577Z"
+    },
+    {
+      "id": "b-mtuschrr-tkxbc",
+      "season": 2026,
+      "proposer": "lalwani",
+      "opponent": "konciak",
+      "terms": "I beat you head-to-head in week 1",
+      "stakeKind": "cash",
+      "stake": 20,
+      "forfeit": "",
+      "resolves": "Week 1",
+      "status": "proposed",
+      "winner": null,
+      "proposedAt": "2026-09-10T00:24:55.287Z"
     }
   ]
 }
