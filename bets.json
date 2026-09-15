@@ -29,6 +29,20 @@
       "winner": null,
       "proposedAt": "2026-09-10T00:24:55.287Z",
       "acceptedAt": "2026-09-10T09:47:13.833Z"
+    },
+    {
+      "id": "b-mu2tsazq-nk6a6",
+      "season": 2026,
+      "proposer": "varghese",
+      "opponent": "waldman",
+      "terms": "I beat you head-to-head in week __",
+      "stakeKind": "cash",
+      "stake": 20,
+      "forfeit": "",
+      "resolves": "",
+      "status": "proposed",
+      "winner": null,
+      "proposedAt": "2026-09-15T15:27:22.022Z"
     }
   ]
 }
