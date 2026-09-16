@@ -44,6 +44,20 @@
       "status": "proposed",
       "winner": null,
       "proposedAt": "2026-09-15T15:27:22.022Z"
+    },
+    {
+      "id": "b-mu4bvs34-rlb7j",
+      "season": 2026,
+      "proposer": "lalwani",
+      "opponent": "baugh",
+      "terms": "I beat you head-to-head in week 2",
+      "stakeKind": "cash",
+      "stake": 20,
+      "forfeit": "",
+      "resolves": "",
+      "status": "proposed",
+      "winner": null,
+      "proposedAt": "2026-09-16T16:41:43.408Z"
     }
   ]
 }
