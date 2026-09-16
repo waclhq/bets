@@ -59,6 +59,20 @@
       "status": "proposed",
       "winner": null,
       "proposedAt": "2026-09-16T16:41:43.408Z"
+    },
+    {
+      "id": "b-mu4djhyv-cngbk",
+      "season": 2026,
+      "proposer": "konciak",
+      "opponent": "bernstein",
+      "terms": "Winner of this week's match-up",
+      "stakeKind": "cash",
+      "stake": 20,
+      "forfeit": "",
+      "resolves": "",
+      "status": "proposed",
+      "winner": null,
+      "proposedAt": "2026-09-16T17:28:09.655Z"
     }
   ]
 }
