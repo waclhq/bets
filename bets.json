@@ -88,9 +88,10 @@
       "stake": 20,
       "forfeit": "",
       "resolves": "",
-      "status": "proposed",
+      "status": "live",
       "winner": null,
-      "proposedAt": "2026-09-24T18:33:33.283Z"
+      "proposedAt": "2026-09-24T18:33:33.283Z",
+      "acceptedAt": "2026-09-24T18:33:42.553Z"
     }
   ]
 }
