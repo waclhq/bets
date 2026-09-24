@@ -77,6 +77,20 @@
       "proposedAt": "2026-09-16T17:28:09.655Z",
       "acceptedAt": "2026-09-16T17:39:00.385Z",
       "paidAt": "2026-09-22T15:48:00.154Z"
+    },
+    {
+      "id": "b-mufveesj-oa9fc",
+      "season": 2026,
+      "proposer": "varghese",
+      "opponent": "incognito",
+      "terms": "I beat you head-to-head in week __",
+      "stakeKind": "cash",
+      "stake": 20,
+      "forfeit": "",
+      "resolves": "",
+      "status": "proposed",
+      "winner": null,
+      "proposedAt": "2026-09-24T18:33:33.283Z"
     }
   ]
 }
