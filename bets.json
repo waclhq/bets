@@ -93,6 +93,20 @@
       "winner": null,
       "proposedAt": "2026-09-24T18:33:33.283Z",
       "acceptedAt": "2026-09-24T18:33:42.553Z"
+    },
+    {
+      "id": "b-mufye4jh-b7twy",
+      "season": 2026,
+      "proposer": "lalwani",
+      "opponent": "bernstein",
+      "terms": "I get my first W of the season against You in week 3",
+      "stakeKind": "cash",
+      "stake": 20,
+      "forfeit": "",
+      "resolves": "",
+      "status": "proposed",
+      "winner": null,
+      "proposedAt": "2026-09-24T19:57:18.845Z"
     }
   ]
 }
