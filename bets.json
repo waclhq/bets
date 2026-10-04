@@ -109,6 +109,21 @@
       "winner": null,
       "proposedAt": "2026-09-24T19:57:18.845Z",
       "acceptedAt": "2026-09-25T01:12:03.219Z"
+    },
+    {
+      "id": "b-muu5bpu9-m6481",
+      "season": 2026,
+      "proposer": "varghese",
+      "opponent": "snyder",
+      "terms": "I beat you head-to-head in week __",
+      "stakeKind": "cash",
+      "stake": 80,
+      "toWin": 20,
+      "forfeit": "",
+      "resolves": "",
+      "status": "proposed",
+      "winner": null,
+      "proposedAt": "2026-10-04T18:20:10.258Z"
     }
   ]
 }
