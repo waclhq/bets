@@ -121,9 +121,10 @@
       "toWin": 20,
       "forfeit": "",
       "resolves": "",
-      "status": "proposed",
+      "status": "live",
       "winner": null,
-      "proposedAt": "2026-10-04T18:20:10.258Z"
+      "proposedAt": "2026-10-04T18:20:10.258Z",
+      "acceptedAt": "2026-10-04T18:20:19.586Z"
     }
   ]
 }
