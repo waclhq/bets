@@ -127,6 +127,20 @@
       "proposedAt": "2026-10-04T18:20:10.258Z",
       "acceptedAt": "2026-10-04T18:20:19.586Z",
       "paidAt": "2026-10-07T12:55:51.864Z"
+    },
+    {
+      "id": "b-muzz5wj6-ve0zv",
+      "season": 2026,
+      "proposer": "lalwani",
+      "opponent": "buzik",
+      "terms": "I beat you head-to-head in week 5",
+      "stakeKind": "cash",
+      "stake": 50,
+      "forfeit": "",
+      "resolves": "Week 5",
+      "status": "proposed",
+      "winner": null,
+      "proposedAt": "2026-10-08T20:14:18.354Z"
     }
   ]
 }
