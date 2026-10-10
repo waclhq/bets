@@ -142,6 +142,20 @@
       "winner": null,
       "proposedAt": "2026-10-08T20:14:18.354Z",
       "acceptedAt": "2026-10-08T23:25:21.318Z"
+    },
+    {
+      "id": "b-mv2hrc2s-7m67w",
+      "season": 2026,
+      "proposer": "varghese",
+      "opponent": "konciak",
+      "terms": "I beat you head-to-head in week __",
+      "stakeKind": "cash",
+      "stake": 20,
+      "forfeit": "",
+      "resolves": "",
+      "status": "proposed",
+      "winner": null,
+      "proposedAt": "2026-10-10T14:30:23.716Z"
     }
   ]
 }
