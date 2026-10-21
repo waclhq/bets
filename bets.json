@@ -158,6 +158,20 @@
       "winner": null,
       "proposedAt": "2026-10-10T14:30:23.716Z",
       "acceptedAt": "2026-10-10T17:23:57.690Z"
+    },
+    {
+      "id": "b-mviqbq6v-5e9c5",
+      "season": 2026,
+      "proposer": "lalwani",
+      "opponent": "tollinche",
+      "terms": "You will beat me in Week 7 by less than 15 points",
+      "stakeKind": "cash",
+      "stake": 50,
+      "forfeit": "",
+      "resolves": "",
+      "status": "proposed",
+      "winner": null,
+      "proposedAt": "2026-10-21T23:14:30.871Z"
     }
   ]
 }
