@@ -204,7 +204,8 @@
       "status": "live",
       "winner": null,
       "proposedAt": "2026-10-24T21:42:27.847Z",
-      "acceptedAt": "2026-10-24T21:42:45.973Z"
+      "acceptedAt": "2026-10-24T21:42:45.973Z",
+      "paidAt": "2026-10-27T22:11:00.734Z"
     }
   ]
 }
