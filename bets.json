@@ -206,6 +206,20 @@
       "proposedAt": "2026-10-24T21:42:27.847Z",
       "acceptedAt": "2026-10-24T21:42:45.973Z",
       "paidAt": "2026-10-27T22:11:00.734Z"
+    },
+    {
+      "id": "b-mvu8l4v4-xiaxu",
+      "season": 2026,
+      "proposer": "lalwani",
+      "opponent": "incognito",
+      "terms": "I beat you head-to-head in week 8",
+      "stakeKind": "cash",
+      "stake": 20,
+      "forfeit": "",
+      "resolves": "Week 8",
+      "status": "proposed",
+      "winner": null,
+      "proposedAt": "2026-10-30T00:31:10.816Z"
     }
   ]
 }
