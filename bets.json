@@ -220,6 +220,20 @@
       "status": "proposed",
       "winner": null,
       "proposedAt": "2026-10-30T00:31:10.816Z"
+    },
+    {
+      "id": "b-mw3za4kn-6fcd7",
+      "season": 2026,
+      "proposer": "waldman",
+      "opponent": "konciak",
+      "terms": "I beat you head-to-head in week 9",
+      "stakeKind": "cash",
+      "stake": 20,
+      "forfeit": "",
+      "resolves": "11/10",
+      "status": "proposed",
+      "winner": null,
+      "proposedAt": "2026-11-05T20:08:22.440Z"
     }
   ]
 }
