@@ -231,9 +231,10 @@
       "stake": 20,
       "forfeit": "",
       "resolves": "11/10",
-      "status": "proposed",
+      "status": "live",
       "winner": null,
-      "proposedAt": "2026-11-05T20:08:22.440Z"
+      "proposedAt": "2026-11-05T20:08:22.440Z",
+      "acceptedAt": "2026-11-06T10:24:17.067Z"
     }
   ]
 }
