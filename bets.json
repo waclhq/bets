@@ -217,9 +217,10 @@
       "stake": 20,
       "forfeit": "",
       "resolves": "Week 8",
-      "status": "proposed",
+      "status": "live",
       "winner": null,
-      "proposedAt": "2026-10-30T00:31:10.816Z"
+      "proposedAt": "2026-10-30T00:31:10.816Z",
+      "acceptedAt": "2026-11-22T17:06:55.197Z"
     },
     {
       "id": "b-mw3za4kn-6fcd7",
