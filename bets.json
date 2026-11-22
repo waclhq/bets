@@ -250,6 +250,20 @@
       "winner": null,
       "proposedAt": "2026-11-10T14:47:57.939Z",
       "acceptedAt": "2026-11-10T16:25:59.652Z"
+    },
+    {
+      "id": "b-mws39j1z-2f6ej",
+      "season": 2026,
+      "proposer": "lalwani",
+      "opponent": "velamoor",
+      "terms": "I beat you head-to-head in week _11",
+      "stakeKind": "cash",
+      "stake": 20,
+      "forfeit": "",
+      "resolves": "Week 11",
+      "status": "proposed",
+      "winner": null,
+      "proposedAt": "2026-11-22T17:06:21.239Z"
     }
   ]
 }
